@@ -72,7 +72,7 @@ public class Server implements ActionListener{//implements belongs to awt event
 		video.setBounds(300,20,35,30);
 		p1.add(video);
 		
-		JLabel name = new JLabel("Dnyanu");
+		JLabel name = new JLabel("DP");
 		name.setBounds(110,15,100,19);
 		name.setForeground(Color.WHITE);
 		name.setFont(new Font("SAN_SERIF", Font.BOLD,18));
